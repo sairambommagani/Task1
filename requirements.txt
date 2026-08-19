@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-text-splitters
+openai
+pinecone
+pypdf
+tiktoken
+sentence-transformers
+transformers
+torch
+sentencepiece
